@@ -10,6 +10,8 @@
 
 ## Authors
 * Antonin Rouxel ([anrouxel](https://github.com/anrouxel))
+
+## Collaborators
 * Quentin Tegny ([Qt144](https://github.com/Qt144))
 * Paul BOUTET ([Kartinlage](https://github.com/Kartinlage))
 * Arthur Osselin ([tuturita](https://github.com/tuturita))
